@@ -16,7 +16,7 @@ function rock() {
 
   let result = "";
   if (computerMove === "rock") {
-    result = "You Tie";
+    result = "Tie";
   } else if (computerMove === "paper") {
     result = "You lose.";
   } else if (computerMove === "Scissors") {
