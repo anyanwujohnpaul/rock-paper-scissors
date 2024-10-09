@@ -6,4 +6,4 @@
 
 
 <h3>What I learned</h3>
-<p>I worked with variables, if-else statements, the alert and javascript functions which helped me build a rock paper scissors game with ease</p>
+<p>I utilized variables, if-else statements, alerts, and JavaScript functions, which made it easy for me to create a rock-paper-scissors game.</p>
