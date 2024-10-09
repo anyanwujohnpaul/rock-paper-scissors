@@ -7,3 +7,5 @@
 
 <h3>What I learned</h3>
 <p>I utilized variables, if-else statements, alerts, and JavaScript functions, which made it easy for me to create a rock-paper-scissors game.</p>
+
+<p>Link to the live project: <a href="https://anyanwujohnpaul.github.io/rock-paper-scissors/">Rock-Paper-Scissors</a></p>
